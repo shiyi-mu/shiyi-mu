@@ -50,14 +50,8 @@ I am a **PhD Candidate** at Shanghai University (SHU). My research focuses on Co
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,python,opencv,latex,docker,git,linux,matlab,vscode&perline=15" />
+  <img src="https://skillicons.dev/icons?i=pytorch,python,opencv,latex,docker,git,linux,vscode&perline=15" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiyi-mu&show_icons=true&theme=default&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiyi-mu&layout=compact&theme=default&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
-</div>
