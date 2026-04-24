@@ -37,7 +37,7 @@ I am a **PhD Candidate** at Shanghai University (SHU). My research focuses on Co
 | Year | Title | Venue |
 | :--- | :--- | :--- |
 | **2025** | **StereoDETR: Stereo-based Transformer for 3D Object Detection** <a href="https://github.com/shiyi-mu/StereoDETR-OPEN"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"></a><br>_**S Mu**, Z Gu, Z Ai, A Liu, Y Gao, S Xu_ | **IEEE TCSVT** |
-| **2025** | **Stereo-based 3D Anomaly Object Detection for Autonomous Driving** <a href="https://github.com/shiyi-mu/S3AD-Code"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"></a><br>_**S Mu**, Z Gu, H Lyu, Y Gao, S Xu_ | arXiv |
+| **2025** | **Stereo-based 3D Anomaly Object Detection for Autonomous Driving** <a href="https://github.com/shiyi-mu/S3AD-Code"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github"></a><br>_**S Mu**, Z Gu, H Lyu, Y Gao, S Xu_ | **IEEE IoTJ** |
 | **2024** | **A Learnable Color Correction Matrix for RAW Reconstruction** <a href="https://bmvc2024.org/proceedings/911/"><img src="https://img.shields.io/badge/Paper-BMVC-0056D2?style=flat-square&logo=bookstack"></a><br>_A Liu, **S Mu**, S Xu_ | **BMVC** |
 | **2024** | **Toward unified end-to-end license plate detection and recognition**<br>_Y Gao, **S Mu**, S Xu_ | **IEEE T-ITS** |
 | **2023** | **Full-category robust license plate recognition based on character attention**<br>_**S Mu**, S Xu_ | **Acta Automatica Sinica** |
